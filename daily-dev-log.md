@@ -1,3 +1,36 @@
+# 🗓️ Date: 2025-05-22
+## 👨‍💻 Developer: Your Name
+
+---
+
+### ✅ What I Worked On Today
+- [ ] Task 1 – nodejs proxy with digital ocean droplet
+- [ ] Task 2 – basic UI for linkedin carasouel generator
+- [ ] Task 3 – posted on linkedin
+
+
+---
+
+### 🚧 What’s Stuck / Blocked
+- ❌ Issue 1 – supademo ghost export with iframe and style
+- ❌ Issue 2 – 
+
+---
+
+### 🔜 What's Next
+- [ ] Finish Linkedin Carasouel generator
+- [ ] Add blogs to portfolio and mvp co.
+
+---
+
+### 💡 Observations / Learnings
+- 🔍 Tool/Trick
+- 🔧 Debug insight
+- 📚 Reference or link
+
+---
+
+
 # 🗓️ Date: 2025-05-21
 ## 👨‍💻 Developer: Nrj
 
